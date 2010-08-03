@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Mochi Games</title>
+  <subtitle>Free Games for Portals</subtitle>
+  <link href="http://www.mochimedia.com/feeds/games" rel="self"/>
+  <icon>http://www.mochimedia.com/favicon.ico</icon>
+  <author>
+    <email>team@mochimedia.com</email>
+    <name>Mochi Media, Inc.</name>
+  </author>
+  <id>urn:uuid:6b91fc41-ef25-4e91-ae40-f98a1e7b802a</id>
+  <updated>2010-08-03T19:19:58Z</updated>
+  <entry>
+    <title>cling</title>
+    <author>
+      <name>cznrhubarb</name>
+      <uri>https://www.mochimedia.com/community/profile/cznrhubarb</uri>
+    </author>
+    <link href="http://www.mochimedia.com/games/cling" rel="alternate"/>
+    <link href="http://games.mochiads.com/c/g/cling/cling.swf" rel="enclosure" type="application/x-shockwave-flash"/>
+    <id>urn:uuid:6591f99d-642f-3415-971e-98cd79f57998</id>
+    <media:player height="600" url="http://games.mochiads.com/c/g/cling/cling.swf" width="600"/>
+    <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/cling/_thumb_100x100.png" width="100"/>
+    <media:title>cling</media:title>
+    <media:description>Welcome to cling! Your goal is to help Edgar the electric spider to the goal at the end of each level. Use the hooks to pull Edgar there! Watch out for hazards such as falling, poison, and spikes!
+After you've beaten all the levels cling has to offer, make your own in the available level editor!</media:description>
+    <media:keywords>cling, edgar, electric, electric spider, hooks, physics, platformer, spider</media:keywords>
+    <category term="Action"/>
+    <category term="Other"/>
+    <updated>2010-08-03T01:44:36.718229-08:00</updated>
+    <published>2010-08-03T01:44:36.718229-08:00</published>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <a href="http://www.mochimedia.com/games/cling">
+          <img class="thumbnail" src="http://thumbs.mochiads.com/c/g/cling/_thumb_100x100.png"/>
+        </a>
+        <dl>
+          <dt>Tag</dt>
+          <dd class="tag">17466d6f69a60aa2</dd>
+          <dt>Description</dt>
+          <dd class="description">Welcome to cling! Your goal is to help Edgar the electric spider to the goal at the end of each level. Use the hooks to pull Edgar there! Watch out for hazards such as falling, poison, and spikes!
+After you've beaten all the levels cling has to offer, make your own in the available level editor!</dd>
+          <dt>Resolution</dt>
+          <dd class="resolution">600x600</dd>
+          <dt>Instructions</dt>
+          <dd class="instructions">Arrow keys will pull you in that direction.
+Space bar will make your let go of all dots, but keep in mind that you have no control when you are not connected to any dots.
+Escape goes back to the last menu.
+R restarts the current level.
+P Pauses the game</dd>
+          <dt>Key Mappings</dt>
+          <dd class="key_mappings"/>
+          <dt>Control Scheme</dt>
+          <dd class="control_scheme">{"fire": "space", "jump": "na", "P": "Pause", "R": "Restart", "Escape": "Escape to Menu", "movement": "arrow"}</dd>
+          <dt>Categories</dt>
+          <dd class="categories">Action, Other</dd>
+          <dt>Keywords</dt>
+          <dd class="keywords">cling, edgar, electric, electric spider, hooks, physics, platformer, spider</dd>
+          <dt>Rating</dt>
+          <dd class="rating">Everyone</dd>
+          <dt>Leaderboards</dt>
+          <dd class="leaderboards">False</dd>
+          <dt>Embed</dt>
+          <dd>
+            <code class="embed">&lt;embed src="http://games.mochiads.com/c/g/cling/cling.swf" menu="false" quality="high" width="600" height="600" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /&gt;</code>
+          </dd>
+          <dt>Slug</dt>
+          <dd class="slug">cling</dd>
+          <dt>Featured</dt>
+          <dd class="recommended">True</dd>
+          <dt>Zip File</dt>
+          <dd class="zip_url">http://games.mochiads.com/c/g/cling.zip</dd>
+          <dt>SWF file size</dt>
+          <dd class="swf_file_size">3371080</dd>
+        </dl>
+      </div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Counter-Snipe</title>
+    <author>
+      <name>Chris</name>
+      <uri>https://www.mochimedia.com/community/profile/Chris</uri>
+    </author>
+    <link href="http://www.mochimedia.com/games/hunted" rel="alternate"/>
+    <link href="http://games.mochiads.com/c/g/hunted/Sniper.swf" rel="enclosure" type="application/x-shockwave-flash"/>
+    <id>urn:uuid:b93bd297-3f14-3b58-8237-2198024e6dc7</id>
+    <media:player height="600" url="http://games.mochiads.com/c/g/hunted/Sniper.swf" width="800"/>
+    <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/hunted/_thumb_100x100.jpg" width="100"/>
+    <media:title>Counter-Snipe</media:title>
+    <media:description>In the world of the Sniper there are rarely any second chances. Find and neutralise the enemy sniper before he gets you. Earn cash to upgrade and expand your inventory. Single player mode coaches you and refines your skill. Multi-player is where those skills are really put to the test.</media:description>
+    <media:keywords>1st, 1st person, Ninja Kiwi, counter, countersnipe, find, first, first person, game, gun, headshot, rifle, scope, shoot, shooter, snipe, sniper</media:keywords>
+    <category term="Shooting"/>
+    <updated>2010-08-03T01:34:02.869790-08:00</updated>
+    <published>2010-08-03T01:34:02.869790-08:00</published>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <a href="http://www.mochimedia.com/games/hunted">
+          <img class="thumbnail" src="http://thumbs.mochiads.com/c/g/hunted/_thumb_100x100.jpg"/>
+        </a>
+        <dl>
+          <dt>Tag</dt>
+          <dd class="tag">0998a7f7875306f4</dd>
+          <dt>Description</dt>
+          <dd class="description">In the world of the Sniper there are rarely any second chances. Find and neutralise the enemy sniper before he gets you. Earn cash to upgrade and expand your inventory. Single player mode coaches you and refines your skill. Multi-player is where those skills are really put to the test.</dd>
+          <dt>Resolution</dt>
+          <dd class="resolution">800x600</dd>
+          <dt>Instructions</dt>
+          <dd class="instructions">Mouse to scroll, left click to shoot. Space bar to look down the scope.</dd>
+          <dt>Key Mappings</dt>
+          <dd class="key_mappings"/>
+          <dt>Control Scheme</dt>
+          <dd class="control_scheme">{"fire": "left_mouse", "jump": "na", "space": "zoom", "movement": "na"}</dd>
+          <dt>Categories</dt>
+          <dd class="categories">Shooting</dd>
+          <dt>Keywords</dt>
+          <dd class="keywords">1st, 1st person, Ninja Kiwi, counter, countersnipe, find, first, first person, game, gun, headshot, rifle, scope, shoot, shooter, snipe, sniper</dd>
+          <dt>Rating</dt>
+          <dd class="rating">Teen</dd>
+          <dt>Leaderboards</dt>
+          <dd class="leaderboards">True</dd>
+          <dt>Embed</dt>
+          <dd>
+            <code class="embed">&lt;embed src="http://games.mochiads.com/c/g/hunted/Sniper.swf" menu="false" quality="high" width="800" height="600" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /&gt;</code>
+          </dd>
+          <dt>Slug</dt>
+          <dd class="slug">hunted</dd>
+          <dt>Featured</dt>
+          <dd class="recommended">False</dd>
+          <dt>Zip File</dt>
+          <dd class="zip_url">http://games.mochiads.com/c/g/hunted.zip</dd>
+          <dt>SWF file size</dt>
+          <dd class="swf_file_size">2346711</dd>
+        </dl>
+      </div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Dog Lifter</title>
+    <author>
+      <name>gametudo</name>
+      <uri>https://www.mochimedia.com/community/profile/gametudo</uri>
+    </author>
+    <link href="http://www.mochimedia.com/games/dog-lifter" rel="alternate"/>
+    <link href="http://games.mochiads.com/c/g/dog-lifter/DogLifter.swf" rel="enclosure" type="application/x-shockwave-flash"/>
+    <id>urn:uuid:b1ffe1b3-e1d4-3c78-8bae-dfdf421ca13c</id>
+    <media:player height="400" url="http://games.mochiads.com/c/g/dog-lifter/DogLifter.swf" width="600"/>
+    <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/dog-lifter/_thumb_100x100.jpg" width="100"/>
+    <media:title>Dog Lifter</media:title>
+    <media:description>See how many times you can grab the dog in 60 seconds</media:description>
+    <media:keywords>alien, dog, grab, lift, lifter</media:keywords>
+    <category term="Education"/>
+    <category term="Other"/>
+    <updated>2010-08-03T05:15:19.418053-08:00</updated>
+    <published>2010-08-03T01:30:41.646238-08:00</published>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <a href="http://www.mochimedia.com/games/dog-lifter">
+          <img class="thumbnail" src="http://thumbs.mochiads.com/c/g/dog-lifter/_thumb_100x100.jpg"/>
+        </a>
+        <dl>
+          <dt>Tag</dt>
+          <dd class="tag">bd20f2a5710f427a</dd>
+          <dt>Description</dt>
+          <dd class="description">See how many times you can grab the dog in 60 seconds</dd>
+          <dt>Resolution</dt>
+          <dd class="resolution">600x400</dd>
+          <dt>Instructions</dt>
+          <dd class="instructions">Use the arrow down key to grab the dog.</dd>
+          <dt>Key Mappings</dt>
+          <dd class="key_mappings"/>
+          <dt>Control Scheme</dt>
+          <dd class="control_scheme">{"fire": "na", "jump": "na", "movement": "arrow"}</dd>
+          <dt>Categories</dt>
+          <dd class="categories">Education, Other</dd>
+          <dt>Keywords</dt>
+          <dd class="keywords">alien, dog, grab, lift, lifter</dd>
+          <dt>Rating</dt>
+          <dd class="rating">Everyone</dd>
+          <dt>Leaderboards</dt>
+          <dd class="leaderboards">True</dd>
+          <dt>Embed</dt>
+          <dd>
+            <code class="embed">&lt;embed src="http://games.mochiads.com/c/g/dog-lifter/DogLifter.swf" menu="false" quality="high" width="600" height="400" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /&gt;</code>
+          </dd>
+          <dt>Slug</dt>
+          <dd class="slug">dog-lifter</dd>
+          <dt>Featured</dt>
+          <dd class="recommended">False</dd>
+          <dt>Zip File</dt>
+          <dd class="zip_url">http://games.mochiads.com/c/g/dog-lifter.zip</dd>
+          <dt>SWF file size</dt>
+          <dd class="swf_file_size">27389</dd>
+        </dl>
+      </div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Arithmetics Trainer</title>
+    <author>
+      <name>Utilized</name>
+      <uri>https://www.mochimedia.com/community/profile/Utilized</uri>
+    </author>
+    <link href="http://www.mochimedia.com/games/arithmetics-trainer" rel="alternate"/>
+    <link href="http://games.mochiads.com/c/g/arithmetics-trainer/ArithmeticsTrainer.swf" rel="enclosure" type="application/x-shockwave-flash"/>
+    <id>urn:uuid:146fe086-1495-3039-9bcf-e484a6beee81</id>
+    <media:player height="480" url="http://games.mochiads.com/c/g/arithmetics-trainer/ArithmeticsTrainer.swf" width="640"/>
+    <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/arithmetics-trainer/_thumb_100x100.jpg" width="100"/>
+    <media:title>Arithmetics Trainer</media:title>
+    <media:description>A simple arithmetics trainer with three difficulty levels. Perfect for those, who want to practice arithmetics.</media:description>
+    <media:keywords>arithmetic, learning, trainer</media:keywords>
+    <category term="Education"/>
+    <updated>2010-08-03T01:29:25.284297-08:00</updated>
+    <published>2010-08-03T01:29:25.284297-08:00</published>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <a href="http://www.mochimedia.com/games/arithmetics-trainer">
+          <img class="thumbnail" src="http://thumbs.mochiads.com/c/g/arithmetics-trainer/_thumb_100x100.jpg"/>
+        </a>
+        <dl>
+          <dt>Tag</dt>
+          <dd class="tag">5989bc6c1c5189f7</dd>
+          <dt>Description</dt>
+          <dd class="description">A simple arithmetics trainer with three difficulty levels. Perfect for those, who want to practice arithmetics.</dd>
+          <dt>Resolution</dt>
+          <dd class="resolution">640x480</dd>
+          <dt>Instructions</dt>
+          <dd class="instructions">* Press "Start" button to start the game.
+* Chose the difficulty level(easy/medium/hard) by clicking on one of the three buttons. 
+* Choose the right answer from the set of given answers by clicking on it. If the answer was correct you'll see a "Correct" screen, click anywhere to close it. If the answer was "Wrong" or you didn't provide an answer in the given time interval you'll see a "Wrong" or a "Timeout" screen, click anywhere to close it.
+* Continue answering the questions until you see the result screen.
+* Click "Replay" if you wish to replay the game on a different difficulty level or on the same one.</dd>
+          <dt>Key Mappings</dt>
+          <dd class="key_mappings"/>
+          <dt>Control Scheme</dt>
+          <dd class="control_scheme">{"fire": "na", "jump": "na", "movement": "mouse"}</dd>
+          <dt>Categories</dt>
+          <dd class="categories">Education</dd>
+          <dt>Keywords</dt>
+          <dd class="keywords">arithmetic, learning, trainer</dd>
+          <dt>Rating</dt>
+          <dd class="rating">Everyone</dd>
+          <dt>Leaderboards</dt>
+          <dd class="leaderboards">False</dd>
+          <dt>Embed</dt>
+          <dd>
+            <code class="embed">&lt;embed src="http://games.mochiads.com/c/g/arithmetics-trainer/ArithmeticsTrainer.swf" menu="false" quality="high" width="640" height="480" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /&gt;</code>
+          </dd>
+          <dt>Slug</dt>
+          <dd class="slug">arithmetics-trainer</dd>
+          <dt>Featured</dt>
+          <dd class="recommended">False</dd>
+          <dt>Zip File</dt>
+          <dd class="zip_url">http://games.mochiads.com/c/g/arithmetics-trainer.zip</dd>
+          <dt>SWF file size</dt>
+          <dd class="swf_file_size">645502</dd>
+        </dl>
+      </div>
+    </summary>
+  </entry>
+  <entry>
+    <title>KenKen Challenge</title>
+    <author>
+      <name>adamjonesproductions</name>
+      <uri>https://www.mochimedia.com/community/profile/adamjonesproductions</uri>
+    </author>
+    <link href="http://www.mochimedia.com/games/kenken-challenge" rel="alternate"/>
+    <link href="http://games.mochiads.com/c/g/kenken-challenge/KenKenChallenge.swf" rel="enclosure" type="application/x-shockwave-flash"/>
+    <id>urn:uuid:91038262-e3d9-3e1a-a88f-b77b99e0da18</id>
+    <media:player height="400" url="http://games.mochiads.com/c/g/kenken-challenge/KenKenChallenge.swf" width="550"/>
+    <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/kenken-challenge/_thumb_100x100.jpg" width="100"/>
+    <media:title>KenKen Challenge</media:title>
+    <media:description>Have fun while getting smarter!  Play the math-based puzzle game invented by Tetsuya Miyamoto on boards up to 10 x 10!  Challenge your friends and see who can get the best time!</media:description>
+    <media:keywords>kenken adam jones challenge game board puzzle</media:keywords>
+    <category term="Board Game"/>
+    <category term="Education"/>
+    <category term="Other"/>
+    <category term="Puzzles"/>
+    <updated>2010-08-03T01:27:10.478058-08:00</updated>
+    <published>2010-08-03T01:27:10.478058-08:00</published>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <a href="http://www.mochimedia.com/games/kenken-challenge">
+          <img class="thumbnail" src="http://thumbs.mochiads.com/c/g/kenken-challenge/_thumb_100x100.jpg"/>
+        </a>
+        <dl>
+          <dt>Tag</dt>
+          <dd class="tag">c28334b1531dbbed</dd>
+          <dt>Description</dt>
+          <dd class="description">Have fun while getting smarter!  Play the math-based puzzle game invented by Tetsuya Miyamoto on boards up to 10 x 10!  Challenge your friends and see who can get the best time!</dd>
+          <dt>Resolution</dt>
+          <dd class="resolution">550x400</dd>
+          <dt>Instructions</dt>
+          <dd class="instructions"/>
+          <dt>Key Mappings</dt>
+          <dd class="key_mappings"/>
+          <dt>Control Scheme</dt>
+          <dd class="control_scheme">{"fire": "na", "jump": "na", "movement": "na"}</dd>
+          <dt>Categories</dt>
+          <dd class="categories">Board Game, Education, Other, Puzzles</dd>
+          <dt>Keywords</dt>
+          <dd class="keywords">kenken adam jones challenge game board puzzle</dd>
+          <dt>Rating</dt>
+          <dd class="rating">Everyone</dd>
+          <dt>Leaderboards</dt>
+          <dd class="leaderboards">True</dd>
+          <dt>Embed</dt>
+          <dd>
+            <code class="embed">&lt;embed src="http://games.mochiads.com/c/g/kenken-challenge/KenKenChallenge.swf" menu="false" quality="high" width="550" height="400" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /&gt;</code>
+          </dd>
+          <dt>Slug</dt>
+          <dd class="slug">kenken-challenge</dd>
+          <dt>Featured</dt>
+          <dd class="recommended">False</dd>
+          <dt>Zip File</dt>
+          <dd class="zip_url">http://games.mochiads.com/c/g/kenken-challenge.zip</dd>
+          <dt>SWF file size</dt>
+          <dd class="swf_file_size">3685513</dd>
+        </dl>
+      </div>
+    </summary>
+  </entry>
+</feed>
