@@ -9,10 +9,12 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Damian Nurzynski (dnurzynski)"]
-  s.date = %q{2010-08-03}
+  s.date = %q{2010-08-12}
+  s.description = %q{Mochi api for Rails (www.mochimedia.com)}
   s.email = %q{dnurzynski@gmail.com}
   s.files = [
     "app/models/mochi/feed.rb",
+     "app/models/mochi/game.rb",
      "lib/mochi.rb",
      "lib/mochi/engine.rb"
   ]
@@ -20,7 +22,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}
-  s.summary = %q{Mochi Bridge implementation for Rails3 (www.mochimedia.com)}
+  s.summary = %q{Mochi api for Rails3 (www.mochimedia.com)}
   s.test_files = [
     "spec/feed_spec.rb",
      "spec/spec_helper.rb"

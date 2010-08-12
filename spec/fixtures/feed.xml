@@ -20,12 +20,11 @@
     <link href="http://www.mochimedia.com/games/cling" rel="alternate"/>
     <link href="http://games.mochiads.com/c/g/cling/cling.swf" rel="enclosure" type="application/x-shockwave-flash"/>
     <id>urn:uuid:6591f99d-642f-3415-971e-98cd79f57998</id>
-    <media:player height="600" url="http://games.mochiads.com/c/g/cling/cling.swf" width="600"/>
-    <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/cling/_thumb_100x100.png" width="100"/>
+    <media:player height="600" url="http://games.mochiads.com/c/g/cling/cling.swf" width="620"/>
+    <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/cling/_thumb_100x100.png" width="120"/>
     <media:title>cling</media:title>
-    <media:description>Welcome to cling! Your goal is to help Edgar the electric spider to the goal at the end of each level. Use the hooks to pull Edgar there! Watch out for hazards such as falling, poison, and spikes!
-After you've beaten all the levels cling has to offer, make your own in the available level editor!</media:description>
-    <media:keywords>cling, edgar, electric, electric spider, hooks, physics, platformer, spider</media:keywords>
+    <media:description>Welcome to cling! Your goal is to help Edgar the electric spider to the goal at the end of each level.</media:description>
+    <media:keywords>cling, edgar, electric</media:keywords>
     <category term="Action"/>
     <category term="Other"/>
     <updated>2010-08-03T01:44:36.718229-08:00</updated>
@@ -63,7 +62,7 @@ P Pauses the game</dd>
           <dd class="leaderboards">False</dd>
           <dt>Embed</dt>
           <dd>
-            <code class="embed">&lt;embed src="http://games.mochiads.com/c/g/cling/cling.swf" menu="false" quality="high" width="600" height="600" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /&gt;</code>
+            <code class="embed">Embed code</code>
           </dd>
           <dt>Slug</dt>
           <dd class="slug">cling</dd>
@@ -90,8 +89,7 @@ P Pauses the game</dd>
     <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/hunted/_thumb_100x100.jpg" width="100"/>
     <media:title>Counter-Snipe</media:title>
     <media:description>In the world of the Sniper there are rarely any second chances. Find and neutralise the enemy sniper before he gets you. Earn cash to upgrade and expand your inventory. Single player mode coaches you and refines your skill. Multi-player is where those skills are really put to the test.</media:description>
-    <media:keywords>1st, 1st person, Ninja Kiwi, counter, countersnipe, find, first, first person, game, gun, headshot, rifle, scope, shoot, shooter, snipe, sniper</media:keywords>
-    <category term="Shooting"/>
+    <media:keywords></media:keywords>
     <updated>2010-08-03T01:34:02.869790-08:00</updated>
     <published>2010-08-03T01:34:02.869790-08:00</published>
     <summary type="xhtml">
@@ -149,7 +147,6 @@ P Pauses the game</dd>
     <media:thumbnail height="100" url="http://thumbs.mochiads.com/c/g/dog-lifter/_thumb_100x100.jpg" width="100"/>
     <media:title>Dog Lifter</media:title>
     <media:description>See how many times you can grab the dog in 60 seconds</media:description>
-    <media:keywords>alien, dog, grab, lift, lifter</media:keywords>
     <category term="Education"/>
     <category term="Other"/>
     <updated>2010-08-03T05:15:19.418053-08:00</updated>

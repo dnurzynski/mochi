@@ -4,6 +4,8 @@ module Mochi
     include HappyMapper
     tag 'feed'
 
+    attr_accessor :url
+
     element :id, String
     element :title, String
     element :subtitle, String
@@ -13,14 +15,13 @@ module Mochi
     has_many :games, "Mochi::Game", :tag => "entry"
     has_one :link, "Mochi::Link"
     has_one :author, "Mochi::Author"
-    
-    def url
-      return nil unless link
-      self.link.url
-    end
 
-    def parse(*args)
-      super(args.first, :single => true)
+    after_parse(&:set_url)
+
+    protected
+
+    def set_url
+      self.url = self.link.url if self.link.url
     end
 
   end
@@ -31,6 +32,7 @@ module Mochi
 
     attribute :url, String, :tag => "href"
     attribute :rel, String
+    attribute :file_type, String, :tag => "type"
   end
 
   class Author
@@ -44,4 +46,3 @@ module Mochi
   end
 
 end
-

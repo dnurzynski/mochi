@@ -1,6 +1,5 @@
 require 'spec'
 require File.dirname(__FILE__) + '/../lib/mochi.rb'
-require File.expand_path("../../app/models/mochi/author.rb", __FILE__)
 require File.expand_path("../../app/models/mochi/game.rb", __FILE__)
 require File.expand_path("../../app/models/mochi/feed.rb", __FILE__)
 
