@@ -20,10 +20,10 @@ module Mochi
     element :keywords, String, :namespace => NAMESPACES[:media]
     element :player, String, :namespace => NAMESPACES[:media], :attributes => {:height => Integer, :width => Integer, :url => String}
     element :category, String
-    
+
     has_one  :author, 'Mochi::Author'
     has_many :links, 'Mochi::Link'
-    has_many :categories, 'Mochi::GameCategory' #TODO http://agilezen.com/project/6997/story/82
+    has_many :categories, 'Mochi::GameCategory'
     has_many :details, 'Mochi::GameDetail'
 
     after_parse(&:format_keywords)
@@ -77,7 +77,4 @@ module Mochi
   end
 
 end
-
-
-
 
