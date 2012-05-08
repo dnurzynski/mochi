@@ -65,7 +65,7 @@ module Mochi
     after_parse(&:check_embed)
 
     def to_hash
-      { detail_type.to_sym => value } 
+      { detail_type.to_sym => value }
     end
 
     protected
